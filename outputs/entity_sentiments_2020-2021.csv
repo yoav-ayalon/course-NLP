@@ -1,0 +1,12 @@
+name,token,mention_count,average_sentiment,sentiment_std_dev
+Pete Buttigieg,pete_buttigieg,25,0.38871,0.3164413830395766
+Mark Zuckerberg,mark_zuckerberg,6,0.29973333333333335,0.5440111998438595
+Donald Trump,donald_trump,30,0.21655,0.46388909983361803
+Elon Musk,elon_musk,270,0.20165895953757226,0.4283421869521258
+Jeff Bezos,jeff_bezos,91,0.19309166666666666,0.37712021098647414
+Joe Biden,joe_biden,30,0.08462499999999999,0.5197099969616019
+Bernie Sanders,bernie_sanders,43,0.05658846153846153,0.5598379767856762
+Cathie Wood,cathie_wood,1,0.0,0.0
+Chamath Palihapitiya,chamath_palihapitiya,1,0.0,0.0
+Michael Burry,michael_burry,1,0.0,0.0
+Jim Cramer,jim_cramer,2,-0.1779,0.0

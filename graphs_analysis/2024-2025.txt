@@ -1,0 +1,43 @@
+📊 Graph Overview:
+🔹 Basic Stats:
+  Nodes: 14
+  Edges: 30
+  Is Connected: True
+  Density: 0.3297
+  Diameter: 3
+  Average Degree: 4.29
+  Avg Clustering Coefficient: 0.6981
+  Avg Shortest Path Length: 1.76
+  Avg Node Sentiment: 0.14
+
+🔹 Structural Analysis:
+  Cut Vertices (Articulation Points): ['Elon Musk']
+  Bridges (Critical Edges): [('Elon Musk', 'Alexandria Ocasio-Cortez')]
+
+🔹 Community Detection:
+  Number of Communities: 2
+  Community Sizes: [13, 1]
+
+🔹 Centrality Measures (Top 3 Nodes per Metric):
+  Degree: Elon Musk (0.85), Donald Trump (0.62), Tesla (0.62)
+  Betweenness: Elon Musk (0.43), Tesla (0.18), Donald Trump (0.15)
+  Closeness: Elon Musk (0.87), Donald Trump (0.72), Tesla (0.72)
+
+🔹 Node Sentiments:
+  Bernie Sanders: 0.208 (from 23 mentions)
+  Elon Musk: 0.117 (from 127 mentions)
+  Donald Trump: 0.165 (from 81 mentions)
+  Meta: -0.477 (from 1 mentions)
+  Tesla: 0.155 (from 24 mentions)
+  Cathie Wood: 0.615 (from 7 mentions)
+  Jeff Bezos: 0.367 (from 10 mentions)
+  Ford: 0.090 (from 5 mentions)
+  Joe Biden: 0.245 (from 10 mentions)
+  NIO: 0.239 (from 4 mentions)
+  GM: -0.727 (from 1 mentions)
+  Gavin Newsom: -0.222 (from 7 mentions)
+  Alexandria Ocasio-Cortez: 0.913 (from 1 mentions)
+  Pete Buttigieg: 0.043 (from 8 mentions)
+
+🔹 Structure Analysis:
+ {0: ['Pete Buttigieg', 'Bernie Sanders', 'Gavin Newsom', 'GM', 'Donald Trump', 'Tesla', 'Elon Musk', 'Meta', 'Joe Biden', 'Jeff Bezos', 'Ford', 'Cathie Wood', 'NIO'], 1: ['Alexandria Ocasio-Cortez']}

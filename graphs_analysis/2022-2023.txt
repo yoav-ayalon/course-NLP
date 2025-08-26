@@ -1,0 +1,6 @@
+📊 Graph Overview:
+🔹 Basic Stats:
+  Nodes: 16
+  Edges: 31
+  Is Connected: False
+  Density: 0.2583
